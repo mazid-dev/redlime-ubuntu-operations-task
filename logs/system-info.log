@@ -1,0 +1,20 @@
+======================================
+       SYSTEM INFORMATION REPORT
+======================================
+Hostname: ip-172-31-33-98
+Date: Fri Nov 20 07:20:53 UTC 2026
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        19G  2.6G   16G  14% /
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           909Mi       347Mi       180Mi       2.8Mi       515Mi       561Mi
+Swap:             0B          0B          0B
+
+System Uptime:
+up 1 hour, 4 minutes
+
+======================================
+
